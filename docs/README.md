@@ -14,6 +14,6 @@ This project demonstrates a DevOps setup for a Python Flask application, includi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DevOps-Python-App.git
+   git clone https://github.com/hadiputraz/DevOps-Python-App.git
    cd DevOps-Python-App
    ```
